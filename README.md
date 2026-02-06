@@ -4,8 +4,6 @@
 This project demonstrates an end-to-end data engineering pipeline for integrating
 and processing data
 
-
-
 ## Use Case
 - Integrate data from Brazilian E-Commerce Public Dataset by Olist 
 - Clean and transform raw data into analytics-ready tables
